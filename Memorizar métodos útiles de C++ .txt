@@ -1,0 +1,23 @@
+Métodos string.h para trabajar con arreglos char en C++
+
+strcpy() -> copia un arreglo char a otro arreglo char
+strcmp() -> compara dos arreglos char
+strlen() -> retorna la cantidad de digitos del arreglo char
+strcat() -> concatena un arreglo char en otro arreglo char
+strupr() -> convierte un arreglo char a mayúscula
+strlwer() -> convierte un arreglo char a minúscula
+
+Métodos stdlib.h para convertir arreglos char a números en C++.
+
+atoi() -> transforma un arreglo de char a int
+atof() -> transforma un arreglo de char a float
+atol() -> transforma un arreglo de char a long
+strtod() -> transforma un string a double
+strtol() -> transforma un string a long 
+strtoul() -> transforma un string a unsigned long
+bsearch() -> búsqueda binari en un arreglo
+qsort() -> ordena un arreglo
+div() -> retorna la división entera
+
+fflush(stdin) -> vacia el buffer para el flujo de entrada cin, permite digitar valores
+

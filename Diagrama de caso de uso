@@ -1,9 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T22:18:06.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.1.9" etag="xP0Aw4r6JtDjDKradleb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T22:29:09.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="q4B9v7V2as18qWnD9nGj" version="21.1.9" type="github">
   <diagram name="Página-1" id="0srwKkBMC0Zvy2v_3R32">
-    <mxGraphModel>
+    <mxGraphModel dx="717" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-1" target="Xtgk95SeYlAx2QbKclXl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-1" target="Xtgk95SeYlAx2QbKclXl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="130" />
+              <mxPoint x="435" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-1" value="&lt;div&gt;Cliente&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-2" value="&lt;div&gt;Personal del taller&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-3" target="Xtgk95SeYlAx2QbKclXl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-3" value="Solicitar cita por telefono" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-4" target="Xtgk95SeYlAx2QbKclXl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-4" target="Xtgk95SeYlAx2QbKclXl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-4" value="Verificar disponibilidad de los mécanicos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="185" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="273" y="330" />
+              <mxPoint x="185" y="330" />
+              <mxPoint x="185" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-5" target="Xtgk95SeYlAx2QbKclXl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-5" value="Confirmar disponibilidad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-6" value="&lt;div&gt;Confirmar horario de la cita&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-7" value="Cancelar cita" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xtgk95SeYlAx2QbKclXl-8" target="Xtgk95SeYlAx2QbKclXl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="290" />
+              <mxPoint x="505" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xtgk95SeYlAx2QbKclXl-8" value="Modificar cita" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
